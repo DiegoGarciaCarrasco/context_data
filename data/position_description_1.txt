@@ -1,0 +1,47 @@
+
+Position Title	Sr Cloud Engineer - Azure
+
+Summary
+As part of CDW’s Digital Velocity (DV) organization, Cloud Engineers engage with clients and internal teams to provide automated, cloud native pattern solutions primarily to the public cloud service provider, Azure. This role is expected to have deep technical knowledge in core areas pertaining Azure and cloud native automation and DevOps solutions.
+
+Key areas of responsibility
+●	Provide Professional Services Delivery within CDW’s DV organization with expertise in MS Azure
+●	Billable consultant providing cloud native pattern engineering services to DV clients
+●	Engineer best practice Infrastructure as Code (IaC) automation solutions for clients leveraging technologies, including, but not limited to, HashiCorp Terraform and Ansible
+●	Engineer additional automation solutions including, but not limited to, Containers, CI/CD pipelines, Kubernetes, Azure DevOps, etc.
+●	Operate as part of a team leveraging agile and scrum methodologies
+●	Engineering and consulting services around Azure’s core resources, cloud networking, IAM, etc.
+●	Meet training and certification requirements for applicable technologies (MS Azure, HashiCorp, CKA, etc.)
+●	Travel estimate up to 15%
+●	Internal projects when applicable
+
+Education and/or Skill Set Qualifications
+●	Bachelor's degree in Computer Science or equivalent experience
+●	3+ years of experience in deployment of automated private/public cloud solutions
+●	Knowledge and skill level in identified competencies needed to meet minimum requirements for role
+●	Previous direct customer consulting experience or equivalent understanding of role responsibilities 
+
+Required Qualifications
+●	Highly proficient in Microsoft Azure
+●	Experience deploying and managing Azure tenants, subscriptions, resources, resource groups, NSG, etc. 
+●	Demonstrated understanding and experience with Terraform, Ansible or equivalent IaC automation tools and technologies
+●	Working knowledge of Azure Resource Manager Templates (ARM Templates)
+●	Demonstrated knowledge of the Azure cloud platform and awareness of multi-platform solutions and capabilities
+●	Working knowledge of containers including orchestration with Kubernetes and Azure Kubernetes Service (AKS)
+●	General working knowledge of Kubernetes design and implementation
+●	Proficiency with Azure DevOps including Azure Pipelines, Azure Boards, and Azure Repos
+●	Working knowledge of GitHub and/or GitLab
+●	Experience working as an engineer / team member within an agile environment
+●	Demonstrated ability to speak to business value of public cloud solutions
+●	Excellent written and verbal communication skills, as role must be able to conduct client facing conversations to drive success in consulting engagements
+●	Demonstrate solid interpersonal skills and ability to collaborate with delivery engineering teams
+●	Ability to understand, remember, and apply oral and/or written instructions or other information 
+●	Ability to organize thoughts and ideas into understandable terminology
+●	Ability to multitask, organize, and prioritize
+●	Ability to understand and follow complex instructions and guidelines
+
+Preferred Qualifications
+
+●	Desired Certifications: Azure Developer, Azure DevOps Engineer
+●	Additional technology areas and experience: Linux, PowerShell, BASH, Cloud platform specific automation tooling, additional scripting languages, additional software development languages, data experience, networking experience
+●	Experience working as a consultant within professional services
